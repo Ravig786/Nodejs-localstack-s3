@@ -1,6 +1,11 @@
 # Nodejs-localstack-s3
 Nodejs-localstack-s3
 
+### Prerequisite
+> `Docker` -> `https://www.docker.com`
+
+> `Nodejs` -> `https://nodejs.org/en`
+
 ## To run the project
 
 >>`cmd` -> `docker-compose up -d`
