@@ -7,6 +7,6 @@ Nodejs-localstack-s3
 
 >>`cmd` -> `npm i`
 
->>'cmd' ->  `npm run dev`
+>>`cmd` ->  `npm run dev`
 
 
