@@ -15,7 +15,8 @@ Nodejs-localstack-s3
 >`cmd` ->  `aws --endpoint-url=http://localhost:4566/ s3 mb s3://<BucketName>` or `npm run createbucket`
 
 ### To check the services running 
->`browser` ->  `http://localhost:4566` 
+>`browser` ->  `http://localhost:4566`
+ 
 >`browser` ->  `http://localhost:4566/health` 
 
 
