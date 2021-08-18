@@ -7,10 +7,11 @@ Nodejs-localstack-s3
 
 >>`cmd` -> `npm i`
 
+>> `cmd` -> `npm run createbucket`
+
 >>`cmd` ->  `npm run dev`
 
 # To create a bucket
 >`cmd` ->  `aws --endpoint-url=http://localhost:4566/ s3 mb s3://demo-bucket` or `npm run createbucket` 
-
 
 
